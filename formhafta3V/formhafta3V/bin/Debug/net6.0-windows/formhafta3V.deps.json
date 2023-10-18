@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "formhafta3V/1.0.0": {
+        "runtime": {
+          "formhafta3V.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "formhafta3V/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

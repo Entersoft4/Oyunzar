@@ -1,0 +1,17 @@
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\bin\Debug\net6.0-windows\formhafta3V.exe
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\bin\Debug\net6.0-windows\formhafta3V.deps.json
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\bin\Debug\net6.0-windows\formhafta3V.runtimeconfig.json
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\bin\Debug\net6.0-windows\formhafta3V.dll
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\bin\Debug\net6.0-windows\formhafta3V.pdb
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.Form1.resources
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.csproj.GenerateResource.cache
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.AssemblyInfoInputs.cache
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.AssemblyInfo.cs
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.csproj.CoreCompileInputs.cache
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.dll
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\refint\formhafta3V.dll
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.pdb
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.genruntimeconfig.cache
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\ref\formhafta3V.dll
+D:\Belgeler\BİLGİSAYAR PROGRAMCILIĞI\GÖRSEL PROGRAMLAMA\formhafta3V\formhafta3V\obj\Debug\net6.0-windows\formhafta3V.Form2.resources
