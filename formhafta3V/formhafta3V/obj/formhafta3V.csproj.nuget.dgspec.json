@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Belgeler\\BİLGİSAYAR PROGRAMCILIĞI\\GÖRSEL PROGRAMLAMA\\formhafta3V\\formhafta3V\\formhafta3V.csproj": {}
+    "D:\\Belgeler\\GİTHUB\\Oyunzar\\formhafta3V\\formhafta3V\\formhafta3V.csproj": {}
   },
   "projects": {
-    "D:\\Belgeler\\BİLGİSAYAR PROGRAMCILIĞI\\GÖRSEL PROGRAMLAMA\\formhafta3V\\formhafta3V\\formhafta3V.csproj": {
+    "D:\\Belgeler\\GİTHUB\\Oyunzar\\formhafta3V\\formhafta3V\\formhafta3V.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Belgeler\\BİLGİSAYAR PROGRAMCILIĞI\\GÖRSEL PROGRAMLAMA\\formhafta3V\\formhafta3V\\formhafta3V.csproj",
+        "projectUniqueName": "D:\\Belgeler\\GİTHUB\\Oyunzar\\formhafta3V\\formhafta3V\\formhafta3V.csproj",
         "projectName": "formhafta3V",
-        "projectPath": "D:\\Belgeler\\BİLGİSAYAR PROGRAMCILIĞI\\GÖRSEL PROGRAMLAMA\\formhafta3V\\formhafta3V\\formhafta3V.csproj",
+        "projectPath": "D:\\Belgeler\\GİTHUB\\Oyunzar\\formhafta3V\\formhafta3V\\formhafta3V.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "D:\\Belgeler\\BİLGİSAYAR PROGRAMCILIĞI\\GÖRSEL PROGRAMLAMA\\formhafta3V\\formhafta3V\\obj\\",
+        "outputPath": "D:\\Belgeler\\GİTHUB\\Oyunzar\\formhafta3V\\formhafta3V\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config",
