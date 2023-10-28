@@ -7,10 +7,9 @@ namespace formhafta3V
             InitializeComponent();
         }
         int s1, s2, toplam;
-        int sayac = 1;
-        //týklama kontrolunu saðlamak için sayaç kullanýldý.
         private void b1_Click(object sender, EventArgs e)
         {
+            label1.Text = " ";
             Random zar = new Random();
             //rastgele sayý üretimi için random kullanýldý.
             s1 = zar.Next(1, 7);
@@ -18,7 +17,7 @@ namespace formhafta3V
             l3.Text = "=" + s1;
             l4.Text = "=" + s2;
             toplam = s1 + s2;
-            if (sayac % 2 == 1)
+            if (Form2.tmp % 2 == 1)
             {//sayac:týklama tek mi çift mi bakmak için 2 mod aldýk.
                 if (pbar1.Value + toplam >= pbar1.Maximum)
                 {//>=: 100 e gelen oyunu kazanacaðý için kullandýk.
@@ -36,7 +35,7 @@ namespace formhafta3V
                 {
                     pbar1.Value += toplam;
                     l7.Text = "=" + pbar1.Value;
-                    sayac++;
+                    Form2.tmp++;
                 }
             }
             else
@@ -57,7 +56,7 @@ namespace formhafta3V
                 {
                     pbar2.Value += toplam;
                     l8.Text = "=" + pbar2.Value;
-                    sayac++;
+                    Form2.tmp++;
                 }
             }
         }
@@ -68,6 +67,7 @@ namespace formhafta3V
             start.Text = "START";
             start.Size = new Size(590, 325);
             start.ShowDialog();
+            label1.Text = Form2.tmp.ToString() + ". Oyuncu oyuna baþlayacak.";
         }
 
         private void b2_Click(object sender, EventArgs e)

@@ -38,13 +38,15 @@
             // 
             // b1
             // 
+            b1.BackColor = Color.FromArgb(192, 0, 0);
             b1.Font = new Font("Arial Black", 20.25F, FontStyle.Bold, GraphicsUnit.Point);
+            b1.ForeColor = Color.White;
             b1.Location = new Point(12, 12);
             b1.Name = "b1";
             b1.Size = new Size(289, 216);
             b1.TabIndex = 0;
             b1.Text = "ZAR ATMAK İÇİN TIKLAYINIZ.";
-            b1.UseVisualStyleBackColor = true;
+            b1.UseVisualStyleBackColor = false;
             b1.Click += b1_Click;
             // 
             // l1
@@ -70,6 +72,7 @@
             // l3
             // 
             l3.AutoSize = true;
+            l3.BackColor = Color.Gray;
             l3.Font = new Font("Arial Rounded MT Bold", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
             l3.Location = new Point(341, 78);
             l3.Name = "l3";
@@ -80,6 +83,7 @@
             // l4
             // 
             l4.AutoSize = true;
+            l4.BackColor = Color.Gray;
             l4.Font = new Font("Arial Rounded MT Bold", 20.25F, FontStyle.Regular, GraphicsUnit.Point);
             l4.Location = new Point(341, 171);
             l4.Name = "l4";
@@ -89,13 +93,15 @@
             // 
             // b2
             // 
+            b2.BackColor = Color.FromArgb(0, 192, 0);
             b2.Font = new Font("Arial Black", 9.75F, FontStyle.Bold, GraphicsUnit.Point);
+            b2.ForeColor = Color.White;
             b2.Location = new Point(424, 12);
             b2.Name = "b2";
             b2.Size = new Size(122, 98);
             b2.TabIndex = 5;
             b2.Text = "BAŞLAMAK İÇİN TIKLAYINIZ.";
-            b2.UseVisualStyleBackColor = true;
+            b2.UseVisualStyleBackColor = false;
             b2.Click += b2_Click;
             // 
             // Form2

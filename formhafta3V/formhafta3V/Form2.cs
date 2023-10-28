@@ -18,6 +18,7 @@ namespace formhafta3V
         }
         int s1, s2, toplam1, toplam2;
         int sayac = 1;
+        public static int tmp;
         private void b1_Click(object sender, EventArgs e)
         {
             Random zar = new Random();
@@ -41,12 +42,14 @@ namespace formhafta3V
                     MessageBox.Show("butona birinci basan oyuna başlayacak.", "W İ N", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     b1.Enabled = false;
                     b2.Enabled = true;
+                    tmp = 1;
                 }
                 else if (toplam1 < toplam2)
                 {
                     MessageBox.Show("butona ikinci basan oyuna başlayacak.", "W İ N", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     b1.Enabled = false;
                     b2.Enabled = true;
+                    tmp = 2;
                 }
                 else
                 {
